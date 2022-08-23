@@ -1,4 +1,4 @@
-# ASOC
+# SQNN-ASOC(A Shallow Hybrid Classical-Quantum Spiking Feedforward Neural Network for Noise-Robust Image Classification)
 
 The proposed hybrid classical-quantum
 SQNN model consists of a classical pre-trained SNN, one
