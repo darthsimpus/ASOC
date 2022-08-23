@@ -14,7 +14,7 @@ are provided below.
 1. ClassicalSNNGenerator.ipynb
 It contains the codes to generate Spiking Neural
 Networks. This file is used to make the pre-trained
-network of the proposed DSQ-Net model for the
+network of the proposed SQNN model for the
 different datasets. It is a classical Sequential
 model, which consists of the following:
 (a). Linear Layer: It comprises 784 input features,
