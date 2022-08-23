@@ -6,8 +6,8 @@ dressed quantum layer for classification (whose qubits are
 further measured to collapse to classical bits) and a final
 classical post-processing layer for obtaining the outcomes.
 Additionally, a classical pre-processing layer is employed
-to connect the temporal pooling layer and the dressed quan-
-tum layer of the model architecture. The brief descriptions
+to connect the temporal pooling layer and the dressed quantum
+layer of the model architecture. The brief descriptions
 of different modules used in the development of SQNN
 are provided below.
 
